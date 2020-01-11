@@ -199,6 +199,10 @@ Concernign the last three arguments, note that the first cluster corresponds to 
 
 Coming soon.
 
+## Example
+
+Coming soon.
+
 ## Running the tests
 
 Coming soon.
