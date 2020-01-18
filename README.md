@@ -12,7 +12,7 @@ Release date: 08.01.2020
 
 #### How to cite
 
-Kilani Marwan, 2020, ASeT : Automatic Semantic Tagger, https://github.com/MKilani/EgyVoc
+Kilani Marwan, 2020, ASeT : Automatic Semantic Tagger, https://github.com/MKilani/ASeT
 
 ## Introduction
 
@@ -150,7 +150,7 @@ The ASeT project provides a concept lists which has only two semantic levels, an
 
 #### Lexical list
 
-The lexial list provides the targed words that need to be tagged.
+The lexical list provides the targed words that need to be tagged.
 
 The format is, once again, a list of lists, in which each item has the following form:
 
@@ -158,7 +158,7 @@ The format is, once again, a list of lists, in which each item has the following
 [ID_Word(int), translation(string), [form_1(string), form_2(string), etc]]
 ```
 
-the translation entry must be a single string. If more translations are possible, they most be divided by a comma. Connecting words ("and", "of", "to", etc.), articles ("the", "a", "an") and other semantically empty terms should be avoided to avoid introducing "noise" that may reduce the performances of the algorithm.
+the translation entry must be a single string. If more translations are possible, they must be separated by a comma ','. Other separators can be declared explicitely (see below). Connecting words ("and", "of", "to", etc.), articles ("the", "a", "an") and other semantically empty terms should be avoided to avoid introducing "noise" that may reduce the performances of the algorithm.
 
 The forms, instead, are input as individual entries in a list of strings.
 
