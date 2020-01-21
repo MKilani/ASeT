@@ -14,7 +14,7 @@ Last Update: 21.01.2020
 
 #### How to cite
 
-Kilani Marwan, 2020, ASeT 0.0.1 beta: Automatic Semantic Tagger, https://github.com/MKilani/ASeT
+Kilani Marwan, 2020, ASeT ASeT 0.0.1 beta : Automatic Semantic Tagger, https://github.com/MKilani/ASeT
 
 ## Introduction
 
@@ -85,7 +85,7 @@ You need Python 3.
 
 ### Installing
 
-The python package can be installed through pip, from the testing python repository:
+The python package can be installed through pip:
 
 ```shell
 python3 -m pip install --index-url https://test.pypi.org/simple/ ASeT
@@ -244,26 +244,6 @@ The second output present the same results (plus a few additional secondary para
       }
    },
 ```
-
-
-## Running the test
-
-The file ASeT_tester.py provides an example of the use of the ASeT algorithm to tag a selection fo Ancient Egyptian words.
-
-The file ASeT_tester.py can be downloaded from the github repository https://github.com/MKilani/ASeT/tester/ASeT_tester.py
-
-The file ASeT_tester.py can be run from command line with:
-
-```shell
-python3 ASeT_tester.py
-```
-
-The results should look like this: [Results_ASeT](/tester/testerResults.txt)
-
-
-The results show that the algorithm was able to identify several relevant semantic tags. The list, however, includes also a relatively small number of tags that are clearly spurious either because they are semantically too far to be relevant, or because they reflect secondary meanings of the English word that are not relevant for the semantics of the Egyptian form.  
-This is not a problem: as said above, ASeT should be used within a semi-automated approach, where the results of the automatic tagging process are manually verified to select the best tags and to eliminate possible spurious tags.
-
 
 
 

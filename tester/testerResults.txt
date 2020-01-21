@@ -1,0 +1,1033 @@
+*- Semantic comparison -*
+-> Start
+-> Load Model
+-> Model loaded
+-> Compile semantic index
+-> Semantic index compiled
+Progress:
+ #################### [100.00%]
+Progress:
+ #################### [100.00%]
+Calculate clusters:
+Progress:
+ #################### [100.00%]
+Clean data:
+Progress:
+ #################### [100.00%]
+Progress:
+ #################### [100.00%]
+Wait... converting to json...
+* End *
+*- Semantic comparison -*
+-> Start
+-> Load Model
+-> Model loaded
+-> Compile semantic index
+-> Semantic index compiled
+Progress:
+ #################### [100.00%]
+Progress:
+ #################### [100.00%]
+Calculate clusters:
+Progress:
+ #################### [100.00%]
+Clean data:
+Progress:
+ #################### [100.00%]
+Progress:
+ #################### [100.00%]
+Wait... converting to json...
+* End *
+============
+- - - - - - - - - 
+000000 - a tree, oak :: lvl: Level_01 Nr. Cluster: 1 , Tag: 11 - agriculture vegetation plant tree - Sim. Score: 0.52827501976487
+- - - - - - - - -
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 0 , Tag: 657 - oak - Sim. Score: 1.0
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 0 , Tag: 913 - tree - Sim. Score: 1.0
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 364 - tree trunk - Sim. Score: 0.6535079940834858
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 785 - trunk of tree - Sim. Score: 0.6535079940834858
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2085 - tree wood - Sim. Score: 0.6424234487475068
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1003 - baobab tree - Sim. Score: 0.641863736803217
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2985 - maple tree - Sim. Score: 0.6412563922715553
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2248 - peach tree - Sim. Score: 0.6378279532856062
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 169 - coconut tree - Sim. Score: 0.6351848902980874
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2369 - kapok tree - Sim. Score: 0.6351413181649441
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2247 - apricot tree - Sim. Score: 0.6329201617918823
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1015 - chestnut tree - Sim. Score: 0.6315707527441936
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1029 - stump of tree - Sim. Score: 0.6294724063365598
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 261 - tree stump - Sim. Score: 0.6294724063365598
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1179 - palm tree - Sim. Score: 0.6275322537962557
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1767 - banana tree - Sim. Score: 0.6261257719223023
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2814 - moringa tree - Sim. Score: 0.6241188067040738
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 475 - mahogany tree - Sim. Score: 0.6195992256161926
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 306 - needle tree - Sim. Score: 0.6082544471394644
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2009 - walnut - Sim. Score: 0.553822542779575
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1713 - pine - Sim. Score: 0.5481360998826572
+	000000 - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1917 - beech - Sim. Score: 0.5441704227575972
+= = = = = =
+000001 - head :: lvl: Level_01 Nr. Cluster: 1 , Tag: 9 - body hand leg head torso belly - Sim. Score: 0.4956315314267673
+- - - - - - - - -
+	000001 - head :: lvl: Level_02 Nr. Cluster: 0 , Tag: 1249 - head - Sim. Score: 1.0
+	000001 - head :: lvl: Level_02 Nr. Cluster: 1 , Tag: 543 - back of head - Sim. Score: 0.6115673353686814
+= = = = = =
+000002 - mountain peak, mountain top :: lvl: Level_01 Nr. Cluster: 1 , Tag: 11 - agriculture vegetation plant tree - Sim. Score: 0.4374034420905096
+000002 - mountain peak, mountain top :: lvl: Level_01 Nr. Cluster: 1 , Tag: 7 - time - Sim. Score: 0.4365137433131228
+000002 - mountain peak, mountain top :: lvl: Level_01 Nr. Cluster: 1 , Tag: 1 - physical world - Sim. Score: 0.434947743686419
+000002 - mountain peak, mountain top :: lvl: Level_01 Nr. Cluster: 1 , Tag: 18 - modern world vehicle cart - Sim. Score: 0.4340192063462615
+000002 - mountain peak, mountain top :: lvl: Level_01 Nr. Cluster: 1 , Tag: 9 - body hand leg head torso belly - Sim. Score: 0.43292190956418397
+000002 - mountain peak, mountain top :: lvl: Level_01 Nr. Cluster: 1 , Tag: 8 - motion move vehicle cart - Sim. Score: 0.4309136370599071
+- - - - - - - - -
+	000002 - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 652 - mountain - Sim. Score: 0.6254258484947849
+	000002 - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2068 - mountain foot - Sim. Score: 0.6147349879628327
+	000002 - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2069 - mountain ridge - Sim. Score: 0.6099116695536247
+	000002 - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2064 - mountain hill - Sim. Score: 0.6065526729640752
+	000002 - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2776 - ski - Sim. Score: 0.4720510428056919
+	000002 - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1103 - climb - Sim. Score: 0.4644332165544419
+	000002 - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2819 - treetop - Sim. Score: 0.45799211767271153
+	000002 - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1456 - winter - Sim. Score: 0.45339826615670903
+	000002 - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2195 - sunrise - Sim. Score: 0.45148097784181257
+	000002 - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2194 - sunset - Sim. Score: 0.4502838192546465
+	000002 - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 394 - one time - Sim. Score: 0.45024539760265647
+= = = = = =
+000003 - rush, hurry :: lvl: Level_01 Nr. Cluster: 1 , Tag: 7 - time - Sim. Score: 0.455238035387579
+- - - - - - - - -
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 0 , Tag: 763 - hurry - Sim. Score: 1.0
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 799 - ready - Sim. Score: 0.4950417677446303
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1918 - pass - Sim. Score: 0.4842484607984025
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2712 - suddenly - Sim. Score: 0.4751022389750769
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 714 - soon - Sim. Score: 0.47307401267056187
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 712 - slow - Sim. Score: 0.47186216683337395
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 107 - just - Sim. Score: 0.46877465107655003
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2713 - then - Sim. Score: 0.4675910377745261
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1607 - fast - Sim. Score: 0.4674584873676104
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2438 - yet - Sim. Score: 0.46649353307092656
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 224 - again - Sim. Score: 0.4643123140782043
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1852 - before - Sim. Score: 0.46283147253218715
+	000003 - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1632 - never - Sim. Score: 0.4627769592174539
+= = = = = =
+000004 - donkey :: lvl: Level_01 Nr. Cluster: 1 , Tag: 3 - animals - Sim. Score: 0.47479235141641496
+- - - - - - - - -
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 0 , Tag: 1832 - donkey - Sim. Score: 1.0
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1841 - camel - Sim. Score: 0.5382882378491746
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1486 - goat - Sim. Score: 0.5286417114146226
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 630 - horse - Sim. Score: 0.5189239159139423
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 898 - mule - Sim. Score: 0.5181505392470277
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1325 - pig - Sim. Score: 0.5074447204061562
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2866 - giraffe - Sim. Score: 0.5046898369373756
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1846 - reindeer - Sim. Score: 0.5032266137913092
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1494 - rooster - Sim. Score: 0.5026810710189892
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1319 - sheep - Sim. Score: 0.5013530710759908
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1136 - rabbit - Sim. Score: 0.49923017121794344
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1013 - cow - Sim. Score: 0.4983279185386767
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 459 - cebus monkey - Sim. Score: 0.49830633864708707
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1338 - monkey - Sim. Score: 0.49830633864708707
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1278 - elephant - Sim. Score: 0.4982674758748629
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2427 - piglet - Sim. Score: 0.49778839058602503
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 3090 - horse dung - Sim. Score: 0.4964500283378356
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2909 - hippopotamus - Sim. Score: 0.49628496572018665
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1976 - dog - Sim. Score: 0.49348198606573296
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 3115 - horse barn - Sim. Score: 0.4933859021822272
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1168 - ox - Sim. Score: 0.49249461028141256
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 3091 - pig dung - Sim. Score: 0.4911354705278486
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2911 - hamster - Sim. Score: 0.49064269827374485
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2385 - carabao - Sim. Score: 0.49016704322494853
+	000004 - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 3361 - zebra - Sim. Score: 0.4888349404239176
+= = = = = =
+[{'01_Entry_ID': '000000', '02_Entry_Meaning': 'a tree, oak', '03_Match_Level': 'Level_02', '04_Cluster_Match': '1', '05_ID_Match': '1917', '06_Semantic_Tag': 'beech', '07_Semantic_Similarity': '0.5441704227575972'}, {'01_Entry_ID': '000001', '02_Entry_Meaning': 'head', '03_Match_Level': 'Level_02', '04_Cluster_Match': '1', '05_ID_Match': '543', '06_Semantic_Tag': 'back of head', '07_Semantic_Similarity': '0.6115673353686814'}, {'01_Entry_ID': '000002', '02_Entry_Meaning': 'mountain peak, mountain top', '03_Match_Level': 'Level_02', '04_Cluster_Match': '1', '05_ID_Match': '394', '06_Semantic_Tag': 'one time', '07_Semantic_Similarity': '0.45024539760265647'}, {'01_Entry_ID': '000003', '02_Entry_Meaning': 'rush, hurry', '03_Match_Level': 'Level_02', '04_Cluster_Match': '1', '05_ID_Match': '1632', '06_Semantic_Tag': 'never', '07_Semantic_Similarity': '0.4627769592174539'}, {'01_Entry_ID': '000004', '02_Entry_Meaning': 'donkey', '03_Match_Level': 'Level_02', '04_Cluster_Match': '1', '05_ID_Match': '3361', '06_Semantic_Tag': 'zebra', '07_Semantic_Similarity': '0.4888349404239176'}]
+{
+   "000000": {
+      "00_ID_token": 0,
+      "01_Meaning_token": "a tree, oak",
+      "02_Form_token": [
+         "ʔln"
+      ],
+      "03_Matches": {
+         "Level_01": {
+            "000000": {
+               "00_ID_Match": 11,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "agriculture vegetation plant tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.52827501976487,
+               "11_Semantic_Field": "agriculture vegetation plant tree"
+            }
+         },
+         "Level_02": {
+            "000000": {
+               "00_ID_Match": 657,
+               "03_Best_Match_Sem": [
+                  "oak",
+                  "oak"
+               ],
+               "05_ID_Cluster": 0,
+               "06_Sim_Score_Sem_Match": 1.0,
+               "11_Semantic_Field": "oak"
+            },
+            "000001": {
+               "00_ID_Match": 913,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "tree"
+               ],
+               "05_ID_Cluster": 0,
+               "06_Sim_Score_Sem_Match": 1.0,
+               "11_Semantic_Field": "tree"
+            },
+            "000002": {
+               "00_ID_Match": 364,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "tree trunk"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6535079940834858,
+               "11_Semantic_Field": "tree trunk"
+            },
+            "000003": {
+               "00_ID_Match": 785,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "trunk of tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6535079940834858,
+               "11_Semantic_Field": "trunk of tree"
+            },
+            "000004": {
+               "00_ID_Match": 2085,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "tree wood"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6424234487475068,
+               "11_Semantic_Field": "tree wood"
+            },
+            "000005": {
+               "00_ID_Match": 1003,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "baobab tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.641863736803217,
+               "11_Semantic_Field": "baobab tree"
+            },
+            "000006": {
+               "00_ID_Match": 2985,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "maple tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6412563922715553,
+               "11_Semantic_Field": "maple tree"
+            },
+            "000007": {
+               "00_ID_Match": 2248,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "peach tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6378279532856062,
+               "11_Semantic_Field": "peach tree"
+            },
+            "000008": {
+               "00_ID_Match": 169,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "coconut tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6351848902980874,
+               "11_Semantic_Field": "coconut tree"
+            },
+            "000009": {
+               "00_ID_Match": 2369,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "kapok tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6351413181649441,
+               "11_Semantic_Field": "kapok tree"
+            },
+            "000010": {
+               "00_ID_Match": 2247,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "apricot tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6329201617918823,
+               "11_Semantic_Field": "apricot tree"
+            },
+            "000011": {
+               "00_ID_Match": 1015,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "chestnut tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6315707527441936,
+               "11_Semantic_Field": "chestnut tree"
+            },
+            "000012": {
+               "00_ID_Match": 1029,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "stump of tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6294724063365598,
+               "11_Semantic_Field": "stump of tree"
+            },
+            "000013": {
+               "00_ID_Match": 261,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "tree stump"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6294724063365598,
+               "11_Semantic_Field": "tree stump"
+            },
+            "000014": {
+               "00_ID_Match": 1179,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "palm tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6275322537962557,
+               "11_Semantic_Field": "palm tree"
+            },
+            "000015": {
+               "00_ID_Match": 1767,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "banana tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6261257719223023,
+               "11_Semantic_Field": "banana tree"
+            },
+            "000016": {
+               "00_ID_Match": 2814,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "moringa tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6241188067040738,
+               "11_Semantic_Field": "moringa tree"
+            },
+            "000017": {
+               "00_ID_Match": 475,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "mahogany tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6195992256161926,
+               "11_Semantic_Field": "mahogany tree"
+            },
+            "000018": {
+               "00_ID_Match": 306,
+               "03_Best_Match_Sem": [
+                  "a tree",
+                  "needle tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6082544471394644,
+               "11_Semantic_Field": "needle tree"
+            },
+            "000019": {
+               "00_ID_Match": 2009,
+               "03_Best_Match_Sem": [
+                  "oak",
+                  "walnut"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.553822542779575,
+               "11_Semantic_Field": "walnut"
+            },
+            "000020": {
+               "00_ID_Match": 1713,
+               "03_Best_Match_Sem": [
+                  "oak",
+                  "pine"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.5481360998826572,
+               "11_Semantic_Field": "pine"
+            },
+            "000021": {
+               "00_ID_Match": 1917,
+               "03_Best_Match_Sem": [
+                  "oak",
+                  "beech"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.5441704227575972,
+               "11_Semantic_Field": "beech"
+            }
+         }
+      }
+   },
+   "000001": {
+      "00_ID_token": 3,
+      "01_Meaning_token": "head",
+      "02_Form_token": [
+         "tp"
+      ],
+      "03_Matches": {
+         "Level_01": {
+            "000000": {
+               "00_ID_Match": 9,
+               "03_Best_Match_Sem": [
+                  "head",
+                  "body hand leg head torso belly"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4956315314267673,
+               "11_Semantic_Field": "body hand leg head torso belly"
+            }
+         },
+         "Level_02": {
+            "000000": {
+               "00_ID_Match": 1249,
+               "03_Best_Match_Sem": [
+                  "head",
+                  "head"
+               ],
+               "05_ID_Cluster": 0,
+               "06_Sim_Score_Sem_Match": 1.0,
+               "11_Semantic_Field": "head"
+            },
+            "000001": {
+               "00_ID_Match": 543,
+               "03_Best_Match_Sem": [
+                  "head",
+                  "back of head"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6115673353686814,
+               "11_Semantic_Field": "back of head"
+            }
+         }
+      }
+   },
+   "000002": {
+      "00_ID_token": 4,
+      "01_Meaning_token": "mountain peak, mountain top",
+      "02_Form_token": [
+         "rʔʃ"
+      ],
+      "03_Matches": {
+         "Level_01": {
+            "000000": {
+               "00_ID_Match": 11,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "agriculture vegetation plant tree"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4374034420905096,
+               "11_Semantic_Field": "agriculture vegetation plant tree"
+            },
+            "000001": {
+               "00_ID_Match": 7,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "time"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4365137433131228,
+               "11_Semantic_Field": "time"
+            },
+            "000002": {
+               "00_ID_Match": 1,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "physical world"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.434947743686419,
+               "11_Semantic_Field": "physical world"
+            },
+            "000003": {
+               "00_ID_Match": 18,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "modern world vehicle cart"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4340192063462615,
+               "11_Semantic_Field": "modern world vehicle cart"
+            },
+            "000004": {
+               "00_ID_Match": 9,
+               "03_Best_Match_Sem": [
+                  "mountain top",
+                  "body hand leg head torso belly"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.43292190956418397,
+               "11_Semantic_Field": "body hand leg head torso belly"
+            },
+            "000005": {
+               "00_ID_Match": 8,
+               "03_Best_Match_Sem": [
+                  "mountain top",
+                  "motion move vehicle cart"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4309136370599071,
+               "11_Semantic_Field": "motion move vehicle cart"
+            }
+         },
+         "Level_02": {
+            "000000": {
+               "00_ID_Match": 652,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "mountain"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6254258484947849,
+               "11_Semantic_Field": "mountain"
+            },
+            "000001": {
+               "00_ID_Match": 2068,
+               "03_Best_Match_Sem": [
+                  "mountain top",
+                  "mountain foot"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6147349879628327,
+               "11_Semantic_Field": "mountain foot"
+            },
+            "000002": {
+               "00_ID_Match": 2069,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "mountain ridge"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6099116695536247,
+               "11_Semantic_Field": "mountain ridge"
+            },
+            "000003": {
+               "00_ID_Match": 2064,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "mountain hill"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.6065526729640752,
+               "11_Semantic_Field": "mountain hill"
+            },
+            "000004": {
+               "00_ID_Match": 2776,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "ski"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4720510428056919,
+               "11_Semantic_Field": "ski"
+            },
+            "000005": {
+               "00_ID_Match": 1103,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "climb"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4644332165544419,
+               "11_Semantic_Field": "climb"
+            },
+            "000006": {
+               "00_ID_Match": 2819,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "treetop"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.45799211767271153,
+               "11_Semantic_Field": "treetop"
+            },
+            "000007": {
+               "00_ID_Match": 1456,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "winter"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.45339826615670903,
+               "11_Semantic_Field": "winter"
+            },
+            "000008": {
+               "00_ID_Match": 2195,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "sunrise"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.45148097784181257,
+               "11_Semantic_Field": "sunrise"
+            },
+            "000009": {
+               "00_ID_Match": 2194,
+               "03_Best_Match_Sem": [
+                  "mountain peak",
+                  "sunset"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4502838192546465,
+               "11_Semantic_Field": "sunset"
+            },
+            "000010": {
+               "00_ID_Match": 394,
+               "03_Best_Match_Sem": [
+                  "mountain top",
+                  "one time"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.45024539760265647,
+               "11_Semantic_Field": "one time"
+            }
+         }
+      }
+   },
+   "000003": {
+      "00_ID_token": 5,
+      "01_Meaning_token": "rush, hurry",
+      "02_Form_token": [
+         "ħfʣ"
+      ],
+      "03_Matches": {
+         "Level_01": {
+            "000000": {
+               "00_ID_Match": 7,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "time"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.455238035387579,
+               "11_Semantic_Field": "time"
+            }
+         },
+         "Level_02": {
+            "000000": {
+               "00_ID_Match": 763,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "hurry"
+               ],
+               "05_ID_Cluster": 0,
+               "06_Sim_Score_Sem_Match": 1.0,
+               "11_Semantic_Field": "hurry"
+            },
+            "000001": {
+               "00_ID_Match": 799,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "ready"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4950417677446303,
+               "11_Semantic_Field": "ready"
+            },
+            "000002": {
+               "00_ID_Match": 1918,
+               "03_Best_Match_Sem": [
+                  "rush",
+                  "pass"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4842484607984025,
+               "11_Semantic_Field": "pass"
+            },
+            "000003": {
+               "00_ID_Match": 2712,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "suddenly"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4751022389750769,
+               "11_Semantic_Field": "suddenly"
+            },
+            "000004": {
+               "00_ID_Match": 714,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "soon"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.47307401267056187,
+               "11_Semantic_Field": "soon"
+            },
+            "000005": {
+               "00_ID_Match": 712,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "slow"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.47186216683337395,
+               "11_Semantic_Field": "slow"
+            },
+            "000006": {
+               "00_ID_Match": 107,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "just"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.46877465107655003,
+               "11_Semantic_Field": "just"
+            },
+            "000007": {
+               "00_ID_Match": 2713,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "then"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4675910377745261,
+               "11_Semantic_Field": "then"
+            },
+            "000008": {
+               "00_ID_Match": 1607,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "fast"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4674584873676104,
+               "11_Semantic_Field": "fast"
+            },
+            "000009": {
+               "00_ID_Match": 2438,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "yet"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.46649353307092656,
+               "11_Semantic_Field": "yet"
+            },
+            "000010": {
+               "00_ID_Match": 224,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "again"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4643123140782043,
+               "11_Semantic_Field": "again"
+            },
+            "000011": {
+               "00_ID_Match": 1852,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "before"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.46283147253218715,
+               "11_Semantic_Field": "before"
+            },
+            "000012": {
+               "00_ID_Match": 1632,
+               "03_Best_Match_Sem": [
+                  "hurry",
+                  "never"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4627769592174539,
+               "11_Semantic_Field": "never"
+            }
+         }
+      }
+   },
+   "000004": {
+      "00_ID_token": 6,
+      "01_Meaning_token": "donkey",
+      "02_Form_token": [
+         "ʕʔ"
+      ],
+      "03_Matches": {
+         "Level_01": {
+            "000000": {
+               "00_ID_Match": 3,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "animals"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.47479235141641496,
+               "11_Semantic_Field": "animals"
+            }
+         },
+         "Level_02": {
+            "000000": {
+               "00_ID_Match": 1832,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "donkey"
+               ],
+               "05_ID_Cluster": 0,
+               "06_Sim_Score_Sem_Match": 1.0,
+               "11_Semantic_Field": "donkey"
+            },
+            "000001": {
+               "00_ID_Match": 1841,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "camel"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.5382882378491746,
+               "11_Semantic_Field": "camel"
+            },
+            "000002": {
+               "00_ID_Match": 1486,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "goat"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.5286417114146226,
+               "11_Semantic_Field": "goat"
+            },
+            "000003": {
+               "00_ID_Match": 630,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "horse"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.5189239159139423,
+               "11_Semantic_Field": "horse"
+            },
+            "000004": {
+               "00_ID_Match": 898,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "mule"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.5181505392470277,
+               "11_Semantic_Field": "mule"
+            },
+            "000005": {
+               "00_ID_Match": 1325,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "pig"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.5074447204061562,
+               "11_Semantic_Field": "pig"
+            },
+            "000006": {
+               "00_ID_Match": 2866,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "giraffe"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.5046898369373756,
+               "11_Semantic_Field": "giraffe"
+            },
+            "000007": {
+               "00_ID_Match": 1846,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "reindeer"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.5032266137913092,
+               "11_Semantic_Field": "reindeer"
+            },
+            "000008": {
+               "00_ID_Match": 1494,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "rooster"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.5026810710189892,
+               "11_Semantic_Field": "rooster"
+            },
+            "000009": {
+               "00_ID_Match": 1319,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "sheep"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.5013530710759908,
+               "11_Semantic_Field": "sheep"
+            },
+            "000010": {
+               "00_ID_Match": 1136,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "rabbit"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.49923017121794344,
+               "11_Semantic_Field": "rabbit"
+            },
+            "000011": {
+               "00_ID_Match": 1013,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "cow"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4983279185386767,
+               "11_Semantic_Field": "cow"
+            },
+            "000012": {
+               "00_ID_Match": 459,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "cebus monkey"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.49830633864708707,
+               "11_Semantic_Field": "cebus monkey"
+            },
+            "000013": {
+               "00_ID_Match": 1338,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "monkey"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.49830633864708707,
+               "11_Semantic_Field": "monkey"
+            },
+            "000014": {
+               "00_ID_Match": 1278,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "elephant"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4982674758748629,
+               "11_Semantic_Field": "elephant"
+            },
+            "000015": {
+               "00_ID_Match": 2427,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "piglet"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.49778839058602503,
+               "11_Semantic_Field": "piglet"
+            },
+            "000016": {
+               "00_ID_Match": 3090,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "horse dung"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4964500283378356,
+               "11_Semantic_Field": "horse dung"
+            },
+            "000017": {
+               "00_ID_Match": 2909,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "hippopotamus"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.49628496572018665,
+               "11_Semantic_Field": "hippopotamus"
+            },
+            "000018": {
+               "00_ID_Match": 1976,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "dog"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.49348198606573296,
+               "11_Semantic_Field": "dog"
+            },
+            "000019": {
+               "00_ID_Match": 3115,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "horse barn"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4933859021822272,
+               "11_Semantic_Field": "horse barn"
+            },
+            "000020": {
+               "00_ID_Match": 1168,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "ox"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.49249461028141256,
+               "11_Semantic_Field": "ox"
+            },
+            "000021": {
+               "00_ID_Match": 3091,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "pig dung"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4911354705278486,
+               "11_Semantic_Field": "pig dung"
+            },
+            "000022": {
+               "00_ID_Match": 2911,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "hamster"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.49064269827374485,
+               "11_Semantic_Field": "hamster"
+            },
+            "000023": {
+               "00_ID_Match": 2385,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "carabao"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.49016704322494853,
+               "11_Semantic_Field": "carabao"
+            },
+            "000024": {
+               "00_ID_Match": 3361,
+               "03_Best_Match_Sem": [
+                  "donkey",
+                  "zebra"
+               ],
+               "05_ID_Cluster": 1,
+               "06_Sim_Score_Sem_Match": 0.4888349404239176,
+               "11_Semantic_Field": "zebra"
+            }
+         }
+      }
+   }
+}
