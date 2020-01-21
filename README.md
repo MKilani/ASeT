@@ -250,7 +250,7 @@ The second output present the same results (plus a few additional secondary para
 
 The file ASeT_tester.py provides an example of the use of the ASeT algorithm to tag a selection fo Ancient Egyptian words.
 
-The file ASeT_tester.py can be downloaded from the github repository https://github.com/MKilani/ASeT/tester/ASeT_tester.py
+The file ASeT_tester.py can be downloaded from the github repository [ASeT_tester.py](/tester/ASeT_tester.py)
 
 The file ASeT_tester.py can be run from command line with:
 
