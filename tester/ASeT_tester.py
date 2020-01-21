@@ -14,7 +14,7 @@ pathOutput = "/path/to/folder/to/print/results/NameOutput" # no extension
 
 #---- Egyptian words to tag
 
-wordsToTag = [[0, "a tree, oak", ["ʔln"]], [3, "head", ["tp"]], [4, "mountain peak, mountain top", ["rʔʃ"]],[5, "rush, hurry", ["ħfʣ"]], [6, "donkey", ["ʕʔ"]]] #
+wordsToTag = [[0, "a tree, oak", ["ʔln"]], [1, "head", ["tp"]], [2, "mountain peak, mountain top", ["rʔʃ"]],[3, "rush, hurry", ["ħfʣ"]], [4, "donkey", ["ʕʔ"]]] #
 
 
 fileRead = open(pathListSemanticTags, "r")
