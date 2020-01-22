@@ -1,6 +1,6 @@
 # ASeT : Automatic Semantic Tagger 
 
-Version: 0.0.1b
+Version: 0.0.2b
 
 Status: Beta - work in progress
 
@@ -14,7 +14,7 @@ Last Update: 21.01.2020
 
 #### How to cite
 
-Kilani Marwan, 2020, ASeT 0.0.1 beta: Automatic Semantic Tagger, https://github.com/MKilani/ASeT
+Kilani Marwan, 2020, ASeT 0.0.2 beta: Automatic Semantic Tagger, https://github.com/MKilani/ASeT
 
 ## Introduction
 
@@ -200,7 +200,7 @@ Concerning the last three arguments, note that the first cluster corresponds to 
 
 ## Output
 
-The algorithm results is a double output, therefore two variable separated by a comma are needed to store the results:
+The algorithm yields a double output, therefore two variable separated by a comma are needed to store the results:
 
 ```python
 resultsSimplified, resultsJson = ASeT(wordsToTag, listSemanticTags, pathModel, pathOutput, numberLevels, numberMatchesOutput, verbose, splitMenings, dividers, semanticThreshold_lvl1, semanticThreshold_lvl2, semanticThreshold_lvl3, thresholdClusters_lvl1, thresholdClusters_lvl2, thresholdClusters_lvl3)
@@ -248,9 +248,8 @@ The second output present the same results (plus a few additional secondary para
 
 ## Running the test
 
-The file ASeT_tester.py provides an example of the use of the ASeT algorithm to tag a selection fo Ancient Egyptian words.
-
-The file ASeT_tester.py can be downloaded from the github repository [ASeT_tester.py](/tester/ASeT_tester.py)
+The file ASeT_tester.py provides an example of the use of the ASeT algorithm to tag a selection fo Ancient Egyptian words.  
+It can be downloaded from the github repository [ASeT_tester.py](/tester/ASeT_tester.py)
 
 The file ASeT_tester.py can be run from command line with:
 
