@@ -1,6 +1,6 @@
 # ASeT : Automatic Semantic Tagger 
 
-Version: 0.0.3b
+Version: 0.0.4b
 
 Status: Beta - work in progress
 
@@ -14,7 +14,7 @@ Last Update: 21.01.2020
 
 #### How to cite
 
-Kilani Marwan, 2020, ASeT ASeT 0.0.3 beta : Automatic Semantic Tagger, https://github.com/MKilani/ASeT
+Kilani Marwan, 2020, ASeT ASeT 0.0.4 beta : Automatic Semantic Tagger, https://github.com/MKilani/ASeT
 
 ## Introduction
 

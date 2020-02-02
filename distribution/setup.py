@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ASeT",
-    version="0.0.3b",
+    version="0.0.4b",
     author="Marwan Kilani",
     author_email="kilani.edu@gmail.com",
     description="Automatic semantic tagger",
@@ -19,6 +19,6 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=["py4j","gensim","json"],
+    install_requires=["py4j","gensim"],
     python_requires='>=3.0',
 )

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: ASeT
-Version: 0.0.3b0
+Version: 0.0.4b0
 Summary: Automatic semantic tagger
 Home-page: https://github.com/MKilani/ASeT
 Author: Marwan Kilani
@@ -8,7 +8,7 @@ Author-email: kilani.edu@gmail.com
 License: UNKNOWN
 Description: # ASeT : Automatic Semantic Tagger 
         
-        Version: 0.0.3b
+        Version: 0.0.4b
         
         Status: Beta - work in progress
         
@@ -22,7 +22,7 @@ Description: # ASeT : Automatic Semantic Tagger
         
         #### How to cite
         
-        Kilani Marwan, 2020, ASeT ASeT 0.0.3 beta : Automatic Semantic Tagger, https://github.com/MKilani/ASeT
+        Kilani Marwan, 2020, ASeT ASeT 0.0.4 beta : Automatic Semantic Tagger, https://github.com/MKilani/ASeT
         
         ## Introduction
         

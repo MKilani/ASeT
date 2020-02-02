@@ -1,3 +1,2 @@
 py4j
 gensim
-json
