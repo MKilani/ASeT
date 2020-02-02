@@ -95,19 +95,20 @@ def ASeT(LexicalList, SemanticTags, pathModel, pathOutput, numberLevels = 2, num
         for level in entry["03_Matches"]:
             for match in entry["03_Matches"][level]:
                 entryResult["01_Entry_ID"] = str(ID_token)
-                entryResult["02_Entry_Meaning"] = entry["01_Meaning_token"]
-                entryResult["03_Match_Level"] = str(level)
-                entryResult["04_Cluster_Match"] = str(entry["03_Matches"][level][match]["05_ID_Cluster"])
-                entryResult["05_ID_Match"] = str(entry["03_Matches"][level][match]["00_ID_Match"])
-                entryResult["06_Semantic_Tag"] = entry["03_Matches"][level][match]["11_Semantic_Field"]
-                entryResult["07_Semantic_Similarity"] = str(entry["03_Matches"][level][match]['06_Sim_Score_Sem_Match'])
+                entryResult["02_Entry_Form"] = ", ".join(entry["02_Form_token"])
+                entryResult["03_Entry_Meaning"] = entry["01_Meaning_token"]
+                entryResult["04_Match_Level"] = str(level)
+                entryResult["05_Cluster_Match"] = str(entry["03_Matches"][level][match]["05_ID_Cluster"])
+                entryResult["06_ID_Match"] = str(entry["03_Matches"][level][match]["00_ID_Match"])
+                entryResult["07_Semantic_Tag"] = entry["03_Matches"][level][match]["11_Semantic_Field"]
+                entryResult["08_Semantic_Similarity"] = str(entry["03_Matches"][level][match]['06_Sim_Score_Sem_Match'])
 
                 prefix = ""
                 for z in range(0, int(level.replace("Level_", ""))-1):
                     prefix = prefix + "\t"
                 if verbose == True:
-                    print (prefix + entryResult["01_Entry_ID"] + " - " + entryResult["02_Entry_Meaning"] + " :: lvl: " + entryResult["03_Match_Level"] + " Nr. Cluster: " + entryResult["04_Cluster_Match"] + " , Tag: " + entryResult["05_ID_Match"] + " - " + entryResult["06_Semantic_Tag"] + " - Sim. Score: " + entryResult["07_Semantic_Similarity"])
-                resultsSimplifiedString = resultsSimplifiedString + prefix + entryResult["01_Entry_ID"] + " - " + entryResult["02_Entry_Meaning"] + " :: lvl: " + entryResult["03_Match_Level"] + " Nr. Cluster: " + entryResult["04_Cluster_Match"] + " , Tag: " + entryResult["05_ID_Match"] + " - " + entryResult["06_Semantic_Tag"] + "Sim. Score: " + entryResult["07_Semantic_Similarity"] + "\n"
+                    print (prefix + entryResult["01_Entry_ID"] + " - '" + ", ".join(entry["02_Form_token"]) + "' - " + entryResult["03_Entry_Meaning"] + " :: lvl: " + entryResult["04_Match_Level"] + " Nr. Cluster: " + entryResult["05_Cluster_Match"] + " , Tag: " + entryResult["06_ID_Match"] + " - " + entryResult["07_Semantic_Tag"] + " - Sim. Score: " + entryResult["08_Semantic_Similarity"])
+                resultsSimplifiedString = resultsSimplifiedString + prefix + entryResult["01_Entry_ID"] + " - '" + ", ".join(entry["02_Form_token"]) + "' - " + entryResult["03_Entry_Meaning"] + " :: lvl: " + entryResult["04_Match_Level"] + " Nr. Cluster: " + entryResult["05_Cluster_Match"] + " , Tag: " + entryResult["06_ID_Match"] + " - " + entryResult["07_Semantic_Tag"] + " Sim. Score: " + entryResult["08_Semantic_Similarity"] + "\n"
             if verbose == True:
                 if not level == sorted(entry["03_Matches"].keys())[-1]:
                       print ("- - - - - - - - -")
@@ -120,14 +121,14 @@ def ASeT(LexicalList, SemanticTags, pathModel, pathOutput, numberLevels = 2, num
 
     Results = open(
         pathOutput + ".json",
-        "w")  # tagged_test_hebrew.txt", "w")#
+        "w")  
 
     Results.write(json_semanticSelection)
     Results.close()
 
     ResultsSimplified = open(
         pathOutput + "_simplified.txt",
-        "w")  # tagged_test_hebrew.txt", "w")#
+        "w")  
 
     ResultsSimplified.write(resultsSimplifiedString)
     ResultsSimplified.close()

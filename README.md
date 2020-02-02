@@ -1,6 +1,6 @@
 # ASeT : Automatic Semantic Tagger 
 
-Version: 0.0.2b
+Version: 0.0.3b
 
 Status: Beta - work in progress
 
@@ -14,7 +14,7 @@ Last Update: 21.01.2020
 
 #### How to cite
 
-Kilani Marwan, 2020, ASeT 0.0.2 beta: Automatic Semantic Tagger, https://github.com/MKilani/ASeT
+Kilani Marwan, 2020, ASeT 0.0.3 beta: Automatic Semantic Tagger, https://github.com/MKilani/ASeT
 
 ## Introduction
 
@@ -210,11 +210,12 @@ The first output is a list of dictionaries with a summary of the results with on
 
 ```python
 "01_Entry_ID" : ID of the word being tagged.
-"02_Entry_Meaning" : Meaning of the word being tagged.
-"03_Match_Level" : Semantic level of the matching tag.
-"04_Cluster_Match" : N-Cluster of the matching tag.
-"05_ID_Match" : ID of the matching tag.
-"06_Semantic_Tag" : Semantic tag of the matching tag.
+"02_Entry_Form" : Form of the word being tagged.
+"03_Entry_Meaning" : Meaning of the word being tagged.
+"04_Match_Level" : Semantic level of the matching tag.
+"05_Cluster_Match" : N-Cluster of the matching tag.
+"06_ID_Match" : ID of the matching tag.
+"07_Semantic_Tag" : Semantic tag of the matching tag.
 ```
 
 The second output present the same results (plus a few additional secondary paramenters) in the form of a nested dictionary (in json format). Its structure is the following - note that the names of the entires in the dictionaries are meant to be compatible with the [ALeA](https://github.com/MKilani/ALeA) algorithm:
@@ -248,7 +249,7 @@ The second output present the same results (plus a few additional secondary para
 
 ## Running the test
 
-The file ASeT_tester.py provides an example of the use of the ASeT algorithm to tag a selection fo Ancient Egyptian words.  
+The file ASeT_tester.py provides an example of the use of the ASeT algorithm to tag a selection of Ancient Egyptian words.  
 It can be downloaded from the github repository [ASeT_tester.py](/tester/ASeT_tester.py)
 
 The file ASeT_tester.py can be run from command line with:
@@ -256,6 +257,8 @@ The file ASeT_tester.py can be run from command line with:
 ```shell
 python3 ASeT_tester.py
 ```
+
+Note that the location fo various files need to be modified within the ALeA_tester.py file before running the script. Just open it with any editor of text and follow the indications.
 
 The results should look like this: [Results_ASeT](/tester/testerResults.txt)
 

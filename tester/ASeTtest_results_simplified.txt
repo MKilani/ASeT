@@ -1,0 +1,98 @@
+000000 - 'ʔln' - a tree, oak :: lvl: Level_01 Nr. Cluster: 1 , Tag: 11 - agriculture vegetation plant tree Sim. Score: 0.52827501976487
+- - - - - - - - -
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 0 , Tag: 657 - oak Sim. Score: 1.0
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 0 , Tag: 913 - tree Sim. Score: 1.0
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 364 - tree trunk Sim. Score: 0.6535079940834858
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 785 - trunk of tree Sim. Score: 0.6535079940834858
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2085 - tree wood Sim. Score: 0.6424234487475068
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1003 - baobab tree Sim. Score: 0.641863736803217
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2985 - maple tree Sim. Score: 0.6412563922715553
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2248 - peach tree Sim. Score: 0.6378279532856062
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 169 - coconut tree Sim. Score: 0.6351848902980874
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2369 - kapok tree Sim. Score: 0.6351413181649441
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2247 - apricot tree Sim. Score: 0.6329201617918823
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1015 - chestnut tree Sim. Score: 0.6315707527441936
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1029 - stump of tree Sim. Score: 0.6294724063365598
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 261 - tree stump Sim. Score: 0.6294724063365598
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1179 - palm tree Sim. Score: 0.6275322537962557
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1767 - banana tree Sim. Score: 0.6261257719223023
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2814 - moringa tree Sim. Score: 0.6241188067040738
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 475 - mahogany tree Sim. Score: 0.6195992256161926
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 306 - needle tree Sim. Score: 0.6082544471394644
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2009 - walnut Sim. Score: 0.553822542779575
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1713 - pine Sim. Score: 0.5481360998826572
+	000000 - 'ʔln' - a tree, oak :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1917 - beech Sim. Score: 0.5441704227575972
+- - - - - - - - -
+= = = = = =
+000001 - 'tp' - head :: lvl: Level_01 Nr. Cluster: 1 , Tag: 9 - body hand leg head torso belly Sim. Score: 0.4956315314267673
+- - - - - - - - -
+	000001 - 'tp' - head :: lvl: Level_02 Nr. Cluster: 0 , Tag: 1249 - head Sim. Score: 1.0
+	000001 - 'tp' - head :: lvl: Level_02 Nr. Cluster: 1 , Tag: 543 - back of head Sim. Score: 0.6115673353686814
+- - - - - - - - -
+= = = = = =
+000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_01 Nr. Cluster: 1 , Tag: 11 - agriculture vegetation plant tree Sim. Score: 0.4374034420905096
+000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_01 Nr. Cluster: 1 , Tag: 7 - time Sim. Score: 0.4365137433131228
+000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_01 Nr. Cluster: 1 , Tag: 1 - physical world Sim. Score: 0.434947743686419
+000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_01 Nr. Cluster: 1 , Tag: 18 - modern world vehicle cart Sim. Score: 0.4340192063462615
+000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_01 Nr. Cluster: 1 , Tag: 9 - body hand leg head torso belly Sim. Score: 0.43292190956418397
+000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_01 Nr. Cluster: 1 , Tag: 8 - motion move vehicle cart Sim. Score: 0.4309136370599071
+- - - - - - - - -
+	000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 652 - mountain Sim. Score: 0.6254258484947849
+	000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2068 - mountain foot Sim. Score: 0.6147349879628327
+	000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2069 - mountain ridge Sim. Score: 0.6099116695536247
+	000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2064 - mountain hill Sim. Score: 0.6065526729640752
+	000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2776 - ski Sim. Score: 0.4720510428056919
+	000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1103 - climb Sim. Score: 0.4644332165544419
+	000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2819 - treetop Sim. Score: 0.45799211767271153
+	000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1456 - winter Sim. Score: 0.45339826615670903
+	000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2195 - sunrise Sim. Score: 0.45148097784181257
+	000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2194 - sunset Sim. Score: 0.4502838192546465
+	000002 - 'rʔʃ' - mountain peak, mountain top :: lvl: Level_02 Nr. Cluster: 1 , Tag: 394 - one time Sim. Score: 0.45024539760265647
+- - - - - - - - -
+= = = = = =
+000003 - 'ħfʣ' - rush, hurry :: lvl: Level_01 Nr. Cluster: 1 , Tag: 7 - time Sim. Score: 0.455238035387579
+- - - - - - - - -
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 0 , Tag: 763 - hurry Sim. Score: 1.0
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 799 - ready Sim. Score: 0.4950417677446303
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1918 - pass Sim. Score: 0.4842484607984025
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2712 - suddenly Sim. Score: 0.4751022389750769
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 714 - soon Sim. Score: 0.47307401267056187
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 712 - slow Sim. Score: 0.47186216683337395
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 107 - just Sim. Score: 0.46877465107655003
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2713 - then Sim. Score: 0.4675910377745261
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1607 - fast Sim. Score: 0.4674584873676104
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2438 - yet Sim. Score: 0.46649353307092656
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 224 - again Sim. Score: 0.4643123140782043
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1852 - before Sim. Score: 0.46283147253218715
+	000003 - 'ħfʣ' - rush, hurry :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1632 - never Sim. Score: 0.4627769592174539
+- - - - - - - - -
+= = = = = =
+000004 - 'ʕʔ' - donkey :: lvl: Level_01 Nr. Cluster: 1 , Tag: 3 - animals Sim. Score: 0.47479235141641496
+- - - - - - - - -
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 0 , Tag: 1832 - donkey Sim. Score: 1.0
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1841 - camel Sim. Score: 0.5382882378491746
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1486 - goat Sim. Score: 0.5286417114146226
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 630 - horse Sim. Score: 0.5189239159139423
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 898 - mule Sim. Score: 0.5181505392470277
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1325 - pig Sim. Score: 0.5074447204061562
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2866 - giraffe Sim. Score: 0.5046898369373756
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1846 - reindeer Sim. Score: 0.5032266137913092
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1494 - rooster Sim. Score: 0.5026810710189892
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1319 - sheep Sim. Score: 0.5013530710759908
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1136 - rabbit Sim. Score: 0.49923017121794344
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1013 - cow Sim. Score: 0.4983279185386767
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 459 - cebus monkey Sim. Score: 0.49830633864708707
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1338 - monkey Sim. Score: 0.49830633864708707
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1278 - elephant Sim. Score: 0.4982674758748629
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2427 - piglet Sim. Score: 0.49778839058602503
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 3090 - horse dung Sim. Score: 0.4964500283378356
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2909 - hippopotamus Sim. Score: 0.49628496572018665
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1976 - dog Sim. Score: 0.49348198606573296
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 3115 - horse barn Sim. Score: 0.4933859021822272
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 1168 - ox Sim. Score: 0.49249461028141256
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 3091 - pig dung Sim. Score: 0.4911354705278486
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2911 - hamster Sim. Score: 0.49064269827374485
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 2385 - carabao Sim. Score: 0.49016704322494853
+	000004 - 'ʕʔ' - donkey :: lvl: Level_02 Nr. Cluster: 1 , Tag: 3361 - zebra Sim. Score: 0.4888349404239176
+- - - - - - - - -
+= = = = = =

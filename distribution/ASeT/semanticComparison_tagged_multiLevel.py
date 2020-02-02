@@ -13,6 +13,10 @@ import copy
 #from timeit import default_timer as timer
 
 
+def all_same(items):
+    return all(x == items[0] for x in items)
+
+
 def semanticComparison_tagged_multiLevel(LexicalList, SemanticTags, pathModel, semanticLevel, previousDataset_json = None, numberMatchesOutput=None, verbose=False, semanticThreshold=0.45, splitMenings = True, dividers = [","], thresholdClusters = None): #, PathTime, pathSemanticOutput,
 
     dicOne = copy.deepcopy(LexicalList)
@@ -188,6 +192,9 @@ def semanticComparison_tagged_multiLevel(LexicalList, SemanticTags, pathModel, s
 
     for key in lexicalDefinitions_One:
 
+        indexBar = indexBar + 1
+        progbar(indexBar, len(lexicalDefinitions_One) - 1, 20)
+
         key_A = ID_entryLexicalItems_One[indexKey]
 
         key_A_orig = key_A
@@ -235,6 +242,10 @@ def semanticComparison_tagged_multiLevel(LexicalList, SemanticTags, pathModel, s
 
     indexKey = 0
 
+    indexBar = -1
+    print()
+    print("Progress:")
+
     for key in lexicalDefinitions_One:
         indexBar = indexBar + 1
         query = [key]
@@ -250,13 +261,13 @@ def semanticComparison_tagged_multiLevel(LexicalList, SemanticTags, pathModel, s
         for i in range(0, len(resultsQueryWithIndexes)):
             index_itemQuerry = resultsQueryWithIndexes[i][1][0]
             if semanticLevel == 1:
-                if not index_itemQuerry in dictValidFields[indexKey]:
+                if not index_itemQuerry in dictValidFields[indexKey] and not resultsQueryWithIndexes[i][1][1] == 1:
                     resultsQueryWithIndexes[i] = None
             elif semanticLevel == 2:
-                if not DictFields[index_itemQuerry][0] in dictValidFields[indexKey]:
+                if not DictFields[index_itemQuerry][0] in dictValidFields[indexKey] and not resultsQueryWithIndexes[i][1][1] == 1:
                     resultsQueryWithIndexes[i] = None
             elif semanticLevel == 3:
-                if not DictFields[index_itemQuerry][1] in dictValidFields[indexKey]:
+                if not DictFields[index_itemQuerry][1] in dictValidFields[indexKey] and not resultsQueryWithIndexes[i][1][1] == 1:
                     resultsQueryWithIndexes[i] = None
 
         resultsQueryWithIndexes = list(filter(None, resultsQueryWithIndexes))
@@ -474,9 +485,16 @@ def semanticComparison_tagged_multiLevel(LexicalList, SemanticTags, pathModel, s
                     else:
                         clusterListTemp.append(clusterList[n])
 
+                listOfClusters_temp = []
 
+                areItemsListClusterDifferent = all_same(clusterListTemp)
 
-                listOfClusters_temp = clusteringFunction(clusterListTemp)
+                if (len(clusterListTemp) > 3 and areItemsListClusterDifferent == False):
+
+                    listOfClusters_temp = clusteringFunction(clusterListTemp)
+                else:
+                    for item in clusterListTemp:
+                        listOfClusters_temp.append(1)
 
                 for n in range(0, len(listOthers)):
                     listOfClusters_temp.insert(listOthers[n], -1)
@@ -715,4 +733,6 @@ def semanticComparison_tagged_multiLevel(LexicalList, SemanticTags, pathModel, s
 
     print("* End *")
     return json_results
+
+
 

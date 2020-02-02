@@ -1,6 +1,6 @@
 # ASeT : Automatic Semantic Tagger 
 
-Version: 0.0.2b
+Version: 0.0.3b
 
 Status: Beta - work in progress
 
@@ -14,7 +14,7 @@ Last Update: 21.01.2020
 
 #### How to cite
 
-Kilani Marwan, 2020, ASeT ASeT 0.0.2 beta : Automatic Semantic Tagger, https://github.com/MKilani/ASeT
+Kilani Marwan, 2020, ASeT ASeT 0.0.3 beta : Automatic Semantic Tagger, https://github.com/MKilani/ASeT
 
 ## Introduction
 
@@ -210,11 +210,12 @@ The first output is a list of dictionaries with a summary of the results with on
 
 ```python
 "01_Entry_ID" : ID of the word being tagged.
-"02_Entry_Meaning" : Meaning of the word being tagged.
-"03_Match_Level" : Semantic level of the matching tag.
-"04_Cluster_Match" : N-Cluster of the matching tag.
-"05_ID_Match" : ID of the matching tag.
-"06_Semantic_Tag" : Semantic tag of the matching tag.
+"02_Entry_Form" : Form of the word being tagged.
+"03_Entry_Meaning" : Meaning of the word being tagged.
+"04_Match_Level" : Semantic level of the matching tag.
+"05_Cluster_Match" : N-Cluster of the matching tag.
+"06_ID_Match" : ID of the matching tag.
+"07_Semantic_Tag" : Semantic tag of the matching tag.
 ```
 
 The second output present the same results (plus a few additional secondary paramenters) in the form of a nested dictionary (in json format). Its structure is the following - note that the names of the entires in the dictionaries are meant to be compatible with the [ALeA](https://github.com/MKilani/ALeA) algorithm:
